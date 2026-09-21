@@ -3,4 +3,4 @@
 
 ### No credits. No limits. Just great photos.
 
-[button] SUBSCRIBE NOW [button]
+https://rizwanphotography.gumroad.com/l/dnbgbb
