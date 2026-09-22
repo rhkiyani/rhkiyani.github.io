@@ -2,6 +2,6 @@
 layout: default
 ---
 
-About Me
+# About Me
 
-Text will go here.
+My name is Rizwan. 
